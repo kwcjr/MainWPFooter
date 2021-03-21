@@ -9,7 +9,7 @@
 						<h3 style="font-weight:bold">MainWP</h3>
 						<ul class="footer-menu">
 							<li><a href="https://mainwp.com/mainwp-blog/">MainWP Blog</a></li>
-							<li><a href="https://mainwp.com/signup/">MainWP Pro</a></li>
+							<li><a href="https://mainwp.com/signup/">MainWP Pro Test</a></li>
 							<li><a href="https://mainwp.com/mainwp-extensions/">MainWP Extensions</a></li>
 							<li><a href="https://mainwp.com/protect-your-data/">Data Protection</a></li>
 							<li><a href="https://mainwp.com/mainwp-roadmaps/">MainWP Roadmaps</a></li>
